@@ -29,4 +29,4 @@
 |[laravel 组件](https://github.com/serverless-components/tencent-laravel)|[全量配置](https://github.com/serverless-components/tencent-laravel/blob/master/docs/configure.md)|
 |[layer 组件](https://github.com/serverless-components/tencent-layer)|[全量配置](https://github.com/serverless-components/tencent-layer/blob/master/docs/configure.md)|
 |[postgresql 组件](https://github.com/serverless-components/tencent-postgresql)|[全量配置](https://github.com/serverless-components/tencent-postgresql/blob/master/docs/configure.md)|
-|[vpc 组件](https://github.com/serverless-components/tencent-vpc/)|[全量配置](https://github.com/serverless-components/tencent-vpc/blob/master/docs/configure.md)|
+|[vpc 组件](https://github.com/serverless-components/tencent-vpc/)|[全量配置](https://github.com/serverless-components/tencent-vpc/blob/master/docs/configure.md)| 
